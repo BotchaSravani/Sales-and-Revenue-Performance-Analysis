@@ -2,7 +2,7 @@
 
 An interactive dashboard using Power BI’s advanced data visualization techniques to analyze sales trends, regional performance, and product category contributions, providing actionable revenue optimization insights.
 
-View the dashboard for the visualizations here [Vizualization](Sales and Revenue Performance Analysis.pbix)
+View the dashboard for the visualizations here [Vizualization](Sales_and_Revenue_Performance_Analysis.pbix)
 
 ## **1.	Executive Summary**
 This report presents an in-depth analysis of sales trends, regional performance, and product category contributions using a range of visualizations, including bar charts, line graphs, and filled maps, etc. The findings from these visualizations offer valuable insights into the company's revenue generation patterns, payment methods, and product performance across different regions.
